@@ -1,5 +1,5 @@
 # Hello, I'm Maria
-<a href="[https://linkedin.com](https://www.linkedin.com/in/maria-goes-9595b4276/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://linkedin.com/in/maria-goes-9595b4276/]"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am a recent Cybersecurity graduate with a profound interest in technology and a dedication to solving complex problems. With a strong foundation in cybersecurity and an associate degree in international relations, I bring a unique perspective to the intersection of global affairs and digital security. My passion lies in protecting data, mitigating cyber threats, and understanding the geopolitical implications of cybersecurity in an increasingly interconnected world.
